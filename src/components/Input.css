@@ -1,0 +1,54 @@
+.input-wrapper {
+    padding: 10px 0px 20px;
+    
+    
+}
+
+.input-wrapper form input {
+    width: 48%;
+    margin-left: 5px;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 10px;
+}
+
+.input-wrapper input:focus {
+   outline: none;
+}
+
+
+.finance-btn {
+    display: flex;
+    padding: 20px 0px 20px;
+}
+
+.finance-btn input{
+    padding: 50px;
+    
+}
+
+.finance-btn input[type=submit] {
+    padding: 15px;
+}
+
+.btn-1 {
+    background-color: #5D9C59;
+    color: white;
+    
+}
+
+.btn-1:hover {
+    background-color: #296b23;
+    color: white;
+    transition: 0.5s ease;
+}
+
+.btn-2 {
+    background-color: #DF2E38;
+    color: white;
+}
+.btn-2:hover {
+    background-color: #c90610;
+    color: white;
+    transition: 0.5s ease;
+}

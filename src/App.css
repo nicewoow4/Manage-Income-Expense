@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  
+}
+
+
+.head-name {
+  text-align: center;
+  background: linear-gradient(60deg, #E21143, #72746f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  
+}

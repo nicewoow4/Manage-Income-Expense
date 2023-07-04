@@ -1,0 +1,38 @@
+.Calfinance {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.sum-income {
+  box-shadow: #0f5c0a 1px 2px 4px;
+  background-color: whitesmoke;
+  padding: 20px;
+  width: 49%;
+  margin-top: 20px;
+  border-radius: 15px;
+  color: #5d9c59;
+  text-align: center;
+}
+
+.sum-expenses {
+  box-shadow: #df2e38 1px 2px 4px;
+  background-color: whitesmoke;
+  padding: 20px;
+  width: 49%;
+  margin-top: 20px;
+  border-radius: 15px;
+  color: #df2e38;
+  text-align: center;
+}
+
+.balance {
+    box-shadow: #000000 1px 2px 4px;
+  background-color: whitesmoke;
+  padding: 20px;
+  width: 100%;
+  margin-top: 20px;
+  border-radius: 15px;
+  color: #020202;
+  text-align: center;
+}
